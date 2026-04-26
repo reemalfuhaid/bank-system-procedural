@@ -9,7 +9,7 @@ Console-based client managment system. Supports:
 - Find client by Account Number
 
   ## Concepts Used
-  - Procedural programming (functions only, no OOP)
+  - Procedural programming
   - File I/O (text files for data storage)
   - Structured menu system
   - Input validation
@@ -22,5 +22,14 @@ Console-based client managment system. Supports:
   ./bank
 
 # Note
+This is the **Procedural version** (functions only, no classes). 
+
+See the **object-oriented version** for comparison:
+[Bank System OOP] (https://github.com/reemalfuhaid/bank-system-oop)
+
+The OOP version achieves similar functionality but uses:
+- Classes and objects
+- Inheritance and polymophism
+- Encapsulation
 
 # Author Reem Alfuhaid - Computer Science student at University of Hail
