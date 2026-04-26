@@ -25,7 +25,7 @@ Console-based client managment system. Supports:
 This is the **Procedural version** (functions only, no classes). 
 
 See the **object-oriented version** for comparison:
-[Bank System OOP] (https://github.com/reemalfuhaid/bank-system-oop)
+[Bank System OOP] (https://github.com/reemalfuhaid/bank-system-opp.git)
 
 The OOP version achieves similar functionality but uses:
 - Classes and objects
